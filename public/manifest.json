@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "description": "A basic ai extension for all your basic needs",
   "icons": {
-    "48": "vite.svg",
-    "128": "vite.svg"
+    "48": "logo.png",
+    "128": "logo.png"
   },
   "action": {
     "default_popup": "index.html"
